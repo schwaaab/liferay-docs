@@ -27,10 +27,10 @@ steps to create a custom preview thumbnail for a layout template:
         <layout-template id="porygon_50_50_width_limited" 
         name="Porygon 2 Columns (50/50) width limited">
             <template-path>
-                /layoutttpl/custom/porygon_50_50_width_limited.ftl
+                /layouttpl/custom/porygon_50_50_width_limited.ftl
             </template-path>
             <thumbnail-path>
-                /layoutttpl/custom/porygon_50_50_width_limited.png
+                /layouttpl/custom/porygon_50_50_width_limited.png
             </thumbnail-path>
         </layout-template>
 
